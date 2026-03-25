@@ -1,0 +1,23 @@
+{
+  "imagePath": "image-targets/easel_luminance.jpg",
+  "metadata": null,
+  "name": "easel",
+  "type": "PLANAR",
+  "properties": {
+    "left": 138,
+    "top": 0,
+    "width": 995,
+    "height": 1327,
+    "isRotated": true,
+    "originalWidth": 1271,
+    "originalHeight": 1327
+  },
+  "resources": {
+    "originalImage": "easel_original.jpg",
+    "croppedImage": "easel_cropped.jpg",
+    "thumbnailImage": "easel_thumbnail.jpg",
+    "luminanceImage": "easel_luminance.jpg"
+  },
+  "created": 1774399110793,
+  "updated": 1774399110793
+}
